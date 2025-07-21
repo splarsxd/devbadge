@@ -1,4 +1,6 @@
 Grant yourself Discord's Official Active Developer Badge
-* Crossplatform
+
 * No Python installation required
 * Open Source & Free to use
+
+Supports: Cross-platform (Windows, Mac and Linux.)
