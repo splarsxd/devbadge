@@ -1,4 +1,4 @@
-Grant yourself Discord's Official Active Developer Badge
+Grant yourself Discord's Official Active Developer Badge<br>
 DECOMISSIONED BY DISCORD DECEMBER 2025 - DOES NOT WORK ANYMORE
 
 * No Python installation required
